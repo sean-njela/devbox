@@ -1,4 +1,4 @@
-# 🧰 DevOps + Java Devbox Environment
+# 🧰 DevOps + Devbox Environment
 
 A full-featured, Devbox-powered, reproducible DevOps environment for engineers who also work with Java.
 
